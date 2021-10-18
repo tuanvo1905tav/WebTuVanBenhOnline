@@ -1,0 +1,18 @@
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\DoAnCoSo\DoAnCoSo\bin\DoAnCoSo.dll.config
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\DoAnCoSo\DoAnCoSo\bin\DoAnCoSo.dll
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\DoAnCoSo\DoAnCoSo\bin\DoAnCoSo.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.dll
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.csprojResolveAssemblyReference.cache
+C:\Users\Nguye\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo\bin\DoAnCoSo.dll.config
+C:\Users\Nguye\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo\bin\DoAnCoSo.dll
+C:\Users\Nguye\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo\bin\DoAnCoSo.pdb
+C:\Users\Nguye\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.dll
+C:\Users\Nguye\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.pdb
+C:\Users\Nguye\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.csprojResolveAssemblyReference.cache
+C:\Users\Nguye\OneDrive\Máy tính\DoAnCoSo(chinh thuc)\DoAnCoSo\bin\DoAnCoSo.dll.config
+C:\Users\Nguye\OneDrive\Máy tính\DoAnCoSo(chinh thuc)\DoAnCoSo\bin\DoAnCoSo.dll
+C:\Users\Nguye\OneDrive\Máy tính\DoAnCoSo(chinh thuc)\DoAnCoSo\bin\DoAnCoSo.pdb
+C:\Users\Nguye\OneDrive\Máy tính\DoAnCoSo(chinh thuc)\DoAnCoSo\obj\Debug\DoAnCoSo.dll
+C:\Users\Nguye\OneDrive\Máy tính\DoAnCoSo(chinh thuc)\DoAnCoSo\obj\Debug\DoAnCoSo.pdb
+C:\Users\Nguye\OneDrive\Máy tính\DoAnCoSo(chinh thuc)\DoAnCoSo\obj\Debug\DoAnCoSo.csprojResolveAssemblyReference.cache

@@ -1,0 +1,48 @@
+﻿.tieuDe{
+    font-weight: 900;
+    color: #107cca;
+    margin-left: 450px; 
+}
+.formThongTin{
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.txtMaBn{
+    width: 300px;
+    height: 25px;
+    margin-bottom: 15px;
+}
+.txtMaBn:hover{
+    background-color: #dbdbdb;
+    transition: 0.3s;
+    border: 1px solid;
+}
+.trai{
+    width: 30%;
+    height: 100%;
+    float: left;
+}
+.phai{
+    width: 70%;
+    height: 100%;
+    float: right;
+}
+.btnGui{
+    margin-left: 0px;
+    width: 70px; 
+    height: 35px;
+    border: none;
+    margin-bottom: 50px;
+}
+.btnGui:hover{
+    background-color: #047686;
+    transition: 0.4s;
+    color: #ffffff;
+}
+.full-webDK{
+    width: 100%; 
+}
+.rdobt{
+    margin-right: 15px;
+}

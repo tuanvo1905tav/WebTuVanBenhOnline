@@ -1,0 +1,57 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="DoAnCoSo.MasterPage" %>
+
+<%@ Register src="../Use_Control/ThanhDiaChi.ascx" tagname="ThanhDiaChi" tagprefix="uc1" %>
+<%@ Register src="../Use_Control/Header.ascx" tagname="Header" tagprefix="uc2" %>
+<%@ Register src="../Use_Control/Content.ascx" tagname="Content" tagprefix="uc3" %>
+<%@ Register src="../Use_Control/Footer.ascx" tagname="Footer" tagprefix="uc4" %>
+<%@ Register src="../Use_Control/CopyRight.ascx" tagname="CopyRight" tagprefix="uc5" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>DOCTOR ONLNE</title>
+    <link href="../Styles/MasterPage.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Antic+Slab&family=Asap&family=Open+Sans+Condensed:wght@300&display=swap" rel="stylesheet">
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="full-website">
+            <%--============================THANHDIACHI=========================================--%>
+            <div class="thanhDiaChi">
+                <uc1:ThanhDiaChi ID="ThanhDiaChi1" runat="server" />
+            </div>
+            <%--============================HEADER=========================================--%>
+            <div class="header">
+                <uc2:Header ID="Header1" runat="server" />
+            </div>
+            <%--============================CONTENT=========================================--%>
+            <div class="content">
+                <div>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+                        <uc3:Content ID="Content1" runat="server" />
+        
+                    </asp:ContentPlaceHolder>
+                </div>
+            </div>
+            <%--============================FOOTER=========================================--%>
+            <div class="footer">
+                <uc4:Footer ID="Footer1" runat="server" />
+            </div>
+            <%--============================COPYRIGHT=========================================--%>
+            <div class="copyRight">
+                <uc5:CopyRight ID="CopyRight1" runat="server" />
+            </div>
+        </div>
+    </form>
+</body>
+</html>
+    

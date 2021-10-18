@@ -1,0 +1,65 @@
+﻿.tonggg{
+    width: 100%;
+
+}
+.connn{
+    width: 90%;
+    height: 350px;
+
+    clear: both;
+    margin-top: 50px;
+    margin-left: 6%;
+}
+.connns{
+    width: 90%;
+    height: 350px;
+    clear: both;
+    margin-top: 50px;
+    margin-left: 6%;
+    margin-bottom: 50px;
+}
+.connn1{
+    width: 23%;
+    height: 100%;
+    float: left;
+    margin-right: 2%;
+    border: solid 0.5px red;
+}
+.sanPham{
+    width: 100%;
+    height: 30%;
+    margin: 0;
+    padding: 0;
+}
+.noiDung{
+    width: 100%;
+    height: 70%;
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+.btnXemTiep{
+    width: 70px;
+    height: 30px;
+    border: none;
+    margin-left: 15px;
+}
+.btnXemTiep:hover{
+    background-color: #1e798a;
+    transition: 0.3s;
+    color: #FFFFFF;
+}
+p{
+    margin: 0;
+    padding: 0;
+    margin: 3px 5px 0px 15px;
+}
+.p1{
+    color: red;
+}
+b{
+    color: black;
+}
